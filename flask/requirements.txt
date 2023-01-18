@@ -1,0 +1,5 @@
+flask>=1.0.0
+Flask-Sockets
+MarkupSafe
+jinja2>=2.11.3
+itsdangerous
